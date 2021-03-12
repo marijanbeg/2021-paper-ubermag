@@ -9,7 +9,7 @@ Marijan Beg<sup>1</sup>, Martin Lang<sup>1</sup>, and Hans Fangohr<sup>1,2</sup>
 | Paper | Coming soon... |
 | Preprint | Coming soon... |
 | Tests | [![Build status](https://github.com/marijanbeg/2021-paper-ubermag/workflows/workflow/badge.svg)](https://github.com/marijanbeg/2021-paper-ubermag/actions) |
-| Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marijanbeg/2021-paper-ubermag/HEAD?urlpath=lab/tree/notebooks/ubermag-example.ipynb) |
+| Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marijanbeg/2021-paper-ubermag/HEAD?filepath=notebooks%2Fubermag-example.ipynb) |
 | License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 | DOI | Coming soon... |
 
@@ -21,7 +21,7 @@ This repository contains all the necessary data and information required to repr
 
 ## Binder
 
-Jupyter notebook can be run in the cloud via [myBinder](https://mybinder.org/v2/gh/marijanbeg/2021-paper-ubermag/HEAD?urlpath=lab/tree/notebooks/ubermag-example.ipynb).
+Jupyter notebook can be run in the cloud via [myBinder](https://mybinder.org/v2/gh/marijanbeg/2021-paper-ubermag/HEAD?filepath=notebooks%2Fubermag-example.ipynb).
 
 ## License
 
