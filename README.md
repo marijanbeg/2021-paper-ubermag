@@ -1,7 +1,7 @@
 # Effective computational micromagnetics workflows with Ubermag
 Marijan Beg<sup>1</sup>, Martin Lang<sup>1</sup>, and Hans Fangohr<sup>1,2</sup>
 
-<sup>1</sup> *Faculty of Engineering and Physical Sciences, University of Southampton, University Road, Southampton SO17 1BJ, United Kingdom*  
+<sup>1</sup> *Faculty of Engineering and Physical Sciences, University of Southampton, Southampton SO17 1BJ, United Kingdom*  
 <sup>2</sup> *Max Planck Institute for the Structure and Dynamics of Matter, Luruper Chaussee 149, 22761 Hamburg, Germany*  
 
 | Description | Badge |
