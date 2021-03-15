@@ -1,8 +1,9 @@
-# Effective computational micromagnetics workflows with Ubermag
-Marijan Beg<sup>1</sup>, Martin Lang<sup>1</sup>, and Hans Fangohr<sup>1,2</sup>
+# Ubermag: Towards more effective micromagnetic workflows
+Marijan Beg<sup>1</sup>, Martin Lang<sup>1</sup>, and Hans Fangohr<sup>1,2,3</sup>
 
 <sup>1</sup> *Faculty of Engineering and Physical Sciences, University of Southampton, Southampton SO17 1BJ, United Kingdom*  
 <sup>2</sup> *Max Planck Institute for the Structure and Dynamics of Matter, Luruper Chaussee 149, 22761 Hamburg, Germany*  
+<sup>3</sup> *Center for Free-Electron Laser Science, Luruper Chaussee 149, 22761 Hamburg, Germany*
 
 | Description | Badge |
 | --- | --- |
@@ -17,7 +18,7 @@ Marijan Beg<sup>1</sup>, Martin Lang<sup>1</sup>, and Hans Fangohr<sup>1,2</sup>
 
 This repository contains all the necessary data and information required to reproduce Figures 1 and 2 in:
 
-- M. Beg, M. Lang, and H. Fangohr. Effective computational micromagnetics workflows with Ubermag. <journal, vol, page> (2021).
+- M. Beg, M. Lang, and H. Fangohr. Ubermag: Towards more effective micromagnetic workflows. <journal, vol, page> (2021).
 
 ## Binder
 
@@ -29,9 +30,9 @@ Licensed under the BSD 3-Clause "New" or "Revised" License. For details, please 
 
 ## How to cite
 
-1. M. Beg, M. Lang, and H. Fangohr. Effective computational micromagnetics workflows with Ubermag. <journal, vol, page> (2021).
+1. M. Beg, M. Lang, and H. Fangohr. Ubermag: Towards more effective micromagnetic workflows. <journal, vol, page> (2021).
 
-2. M. Beg, M. Lang, and H. Fangohr. Accompanying repository for "Effective computational micromagnetics workflows with Ubermag". GitHub: https://github.com/marijanbeg/2021-paper-ubermag, DOI: Coming soon... (2021).
+2. M. Beg, M. Lang, and H. Fangohr. Accompanying repository for "Ubermag: Towards more effective micromagnetic workflows". GitHub: https://github.com/marijanbeg/2021-paper-ubermag, DOI: Coming soon... (2021).
 
 ## Acknowledgements
 
