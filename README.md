@@ -1,7 +1,7 @@
 # Ubermag: Towards more effective micromagnetic workflows
 Marijan Beg<sup>1,2</sup>, Martin Lang<sup>2</sup>, and Hans Fangohr<sup>2,3,4</sup>
 
-<sup>1</sup> *Department of Earth Science and Engineering, Imperial College London, London SW7 2AZ, United Kingdom* 
+<sup>1</sup> *Department of Earth Science and Engineering, Imperial College London, London SW7 2AZ, United Kingdom*  
 <sup>2</sup> *Faculty of Engineering and Physical Sciences, University of Southampton, Southampton SO17 1BJ, United Kingdom*  
 <sup>3</sup> *Max Planck Institute for the Structure and Dynamics of Matter, Luruper Chaussee 149, 22761 Hamburg, Germany*  
 <sup>4</sup> *Center for Free-Electron Laser Science, Luruper Chaussee 149, 22761 Hamburg, Germany*
