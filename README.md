@@ -1,9 +1,10 @@
 # Ubermag: Towards more effective micromagnetic workflows
-Marijan Beg<sup>1</sup>, Martin Lang<sup>1</sup>, and Hans Fangohr<sup>1,2,3</sup>
+Marijan Beg<sup>1,2</sup>, Martin Lang<sup>2</sup>, and Hans Fangohr<sup>2,3,4</sup>
 
-<sup>1</sup> *Faculty of Engineering and Physical Sciences, University of Southampton, Southampton SO17 1BJ, United Kingdom*  
-<sup>2</sup> *Max Planck Institute for the Structure and Dynamics of Matter, Luruper Chaussee 149, 22761 Hamburg, Germany*  
-<sup>3</sup> *Center for Free-Electron Laser Science, Luruper Chaussee 149, 22761 Hamburg, Germany*
+<sup>1</sup> *Department of Earth Science and Engineering, Imperial College London, London SW7 2AZ, United Kingdom* 
+<sup>2</sup> *Faculty of Engineering and Physical Sciences, University of Southampton, Southampton SO17 1BJ, United Kingdom*  
+<sup>3</sup> *Max Planck Institute for the Structure and Dynamics of Matter, Luruper Chaussee 149, 22761 Hamburg, Germany*  
+<sup>4</sup> *Center for Free-Electron Laser Science, Luruper Chaussee 149, 22761 Hamburg, Germany*
 
 | Description | Badge |
 | --- | --- |
@@ -12,7 +13,7 @@ Marijan Beg<sup>1</sup>, Martin Lang<sup>1</sup>, and Hans Fangohr<sup>1,2,3</su
 | Tests | [![Build status](https://github.com/marijanbeg/2021-paper-ubermag/workflows/workflow/badge.svg)](https://github.com/marijanbeg/2021-paper-ubermag/actions) |
 | Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marijanbeg/2021-paper-ubermag/HEAD?filepath=notebooks%2Fubermag-example.ipynb) |
 | License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
-| DOI | Coming soon... |
+| DOI | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4742524.svg)](https://doi.org/10.5281/zenodo.4742524) |
 
 ## About
 
@@ -32,7 +33,7 @@ Licensed under the BSD 3-Clause "New" or "Revised" License. For details, please 
 
 1. M. Beg, M. Lang, and H. Fangohr. Ubermag: Towards more effective micromagnetic workflows. <journal, vol, page> (2021).
 
-2. M. Beg, M. Lang, and H. Fangohr. Accompanying repository for "Ubermag: Towards more effective micromagnetic workflows". GitHub: https://github.com/marijanbeg/2021-paper-ubermag, DOI: Coming soon... (2021).
+2. M. Beg, M. Lang, and H. Fangohr. Accompanying repository for "Ubermag: Towards more effective micromagnetic workflows". GitHub: https://github.com/marijanbeg/2021-paper-ubermag, DOI: 10.5281/zenodo.4742524 (2021).
 
 ## Acknowledgements
 
